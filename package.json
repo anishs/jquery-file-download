@@ -1,0 +1,21 @@
+{
+  "name": "jquery-file-download",
+  "description": "jQuery File Download plugin from johnculvinar",
+  "version": "1.4.9",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/anishs/jquery-file-download/raw/master/LICENSE"
+    }
+  ],
+  "repository": "git://github.com/anishs/jquery-file-download",
+  "main": "jquery.fileDownload.js",
+  "keywords": [
+    "jquery",
+    "file",
+    "download"
+  ],
+  "engines": {
+    "node": ">=0.10.30"
+  }
+}
